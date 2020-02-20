@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\DPState\DPState\bin\Debug\DPState.exe.config
+C:\Users\HP\Desktop\DPState\DPState\bin\Debug\DPState.exe
+C:\Users\HP\Desktop\DPState\DPState\bin\Debug\DPState.pdb
+C:\Users\HP\Desktop\DPState\DPState\obj\Debug\DPState.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\DPState\DPState\obj\Debug\DPState.exe
+C:\Users\HP\Desktop\DPState\DPState\obj\Debug\DPState.pdb
